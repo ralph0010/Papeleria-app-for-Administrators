@@ -1,0 +1,101 @@
+﻿@model Papeleria.MVC.Models.PedidosVM.PedidoViewModelCreate
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Realizar un Pedido</h1>
+<hr />
+<div class=" d-flex d-flex justify-content-around bg-info rounded-3">
+        <div class="border border-success mt-2 mb-2 rounded bg-primary text-white p-3">
+            <form asp-action="AgregarArticulo">
+                <div class="form-group">
+                    <label asp-for="ItemArticulo.IdArticulo" class="control-label"></label>
+                    <select asp-for="ItemArticulo.IdArticulo" class="form-select" id="selectArticulo">
+                        <option value="Seleccionar">Seleccionar</option>
+                        @foreach (var articulo in Model.Articulos)
+                        {
+                            <option value="@articulo.Id" data-precio="@articulo.precio">@articulo.NombreArticulo</option>
+                        }
+                    </select>
+                </div>
+                <div class="input-group mb-3 mt-1 ">
+                    <span class="input-group-text bg-info text-dark" id="inputGroup-sizing-lg">Precio:</span>
+                    <span class="input-group-text bg-warning text-dark" id="spanPrecioArticulo"></span>
+                </div>
+                <label asp-for="ItemArticulo.Cantidad"></label>
+                <input type="number" asp-for="ItemArticulo.Cantidad" class="form-control" />
+                <div>
+                    <input type="submit" value="Agregar Artículo al pedido" class="btn btn-warning mt-1 mb-1" />
+                </div>
+            <div class="input-group mb-3 mt-1 ">
+                <span class="input-group-text bg-warning text-dark">Total:</span>
+                <span class="input-group-text bg-info text-dark">@Model.TotalPedidoAtMoment</span>
+            </div>
+            </form>
+        </div>
+
+
+    <div class="p-5 mb-2 mt-2 bg-light text-dark rounded">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="IdCliente" class="control-label"></label>
+
+                    <select asp-for="IdCliente" class="form-select">
+                        <option value="Seleccionar" selected>Seleccionar</option>
+                        @foreach (var cliente in Model.Clientes)
+                        {
+                            <option value="@cliente.Id">@cliente.RazonSocial</option>
+                        }
+                    </select>
+                    <span asp-validation-for="IdCliente" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IdTipoPedido" class="control-label"></label>
+                    <select asp-for="IdTipoPedido" class="form-select">
+                        <option value="Seleccionar" selected>Seleccionar</option>
+                        @foreach (var tipoPedido in Model.TipoPedido)
+                        {
+                            <option value="@tipoPedido.Id">@tipoPedido.TipoPedido</option>
+                        }
+                    </select>
+                    <span asp-validation-for="IdTipoPedido" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FechaEntrega" class="control-label"></label>
+                    <input asp-for="FechaEntrega" class="form-control" />
+                    <span asp-validation-for="FechaEntrega" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Realizar Pedido" class="btn btn-primary mt-1" />
+                </div>
+            </form>
+        </div>
+
+    </div>
+
+@if (!string.IsNullOrEmpty(ViewBag.SucessMessage))
+{
+    <div class="p-3 mb-2 bg-success text-white rounded">
+        <p>@ViewBag.SucessMessage</p>
+    </div>
+}
+else if (!string.IsNullOrEmpty(ViewBag.ErrorArticulo))
+{
+    <div class="p-3 mb-2 bg-danger text-white rounded">
+        <p>@ViewBag.ErrorArticulo</p>
+    </div>
+}else if(!string.IsNullOrEmpty(ViewBag.ErrorPedido))
+{
+    <div class="p-3 mb-2 bg-danger text-white rounded">
+        <p>@ViewBag.ErrorPedido</p>
+    </div>
+}
+
+<div>
+    <a asp-action="Index">Ir a listado de pedidos</a>
+</div>
+
+
+

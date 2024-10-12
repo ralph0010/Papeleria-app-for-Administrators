@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Papeleria.MVC.Models.UsuariosVM.MostrarListadoUsuariosViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Listado de todos los usuarios</h1>
+
+<p>
+    <a asp-action="Create">Crear un nuevo usuario</a>
+</p>
+<table class="table table-striped table-secondary table-bordered">
+    <thead class="table-success table-bordered">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>Elegir Opción</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido)
+            </td>
+            <td>
+                    <span class="btn btn-outline-warning">@Html.ActionLink("Edit", "Edit", new { Email = item.Email }) </span>
+                    <span class="btn btn-outline-danger">@Html.ActionLink("Delete", "Delete", new { Email = item.Email })</span>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

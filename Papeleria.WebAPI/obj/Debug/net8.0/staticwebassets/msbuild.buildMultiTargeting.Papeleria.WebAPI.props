@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Papeleria.WebAPI.props" />
+</Project>

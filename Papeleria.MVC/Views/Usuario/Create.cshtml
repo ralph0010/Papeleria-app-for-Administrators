@@ -1,0 +1,62 @@
+﻿@model Papeleria.MVC.Models.UsuariosVM.UsuarioViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Crear Usuario</h1>
+
+<h2>Complete los campos</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <label asp-for="Email" for="floatingInput">Email</label>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Apellido" class="control-label"></label>
+                <input asp-for="Apellido" class="form-control" />
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RolId" class="control-label"></label>
+                <select name="RolId">
+                    @foreach(var rol in Model.Roles)
+                    {
+                        <option value="@rol.Id">@rol.TipoRol </option>
+                    }
+                </select>
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+        <div>
+            @if(!string.IsNullOrEmpty(ViewBag.Error)){
+                <div class="p-3 mb-2 bg-danger text-white rounded mt-1">
+                <p>@ViewBag.Error</p>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,1871 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\valueobjects\\vo\\vocliente\\rut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\valueobjects\\vo\\vocliente\\rut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA36DD70-77BA-4E0E-9B16-BA2DDE134795}|Papeleria.WebAPI\\Papeleria.WebAPI.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.webapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA36DD70-77BA-4E0E-9B16-BA2DDE134795}|Papeleria.WebAPI\\Papeleria.WebAPI.csproj|solutionrelative:papeleria.webapi\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA36DD70-77BA-4E0E-9B16-BA2DDE134795}|Papeleria.WebAPI\\Papeleria.WebAPI.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA36DD70-77BA-4E0E-9B16-BA2DDE134795}|Papeleria.WebAPI\\Papeleria.WebAPI.csproj|solutionrelative:papeleria.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\repositoriosef\\repositoriousuariosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\repositoriosef\\repositoriousuariosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\papeleriact\\papeleriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\papeleriact\\papeleriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\repositoriosef\\repositorioclientesef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\repositoriosef\\repositorioclientesef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\repositoriosef\\repositoriopedidosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\repositoriosef\\repositoriopedidosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\pedidosvm\\index\\mostrarpedidosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\pedidosvm\\index\\mostrarpedidosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\pedidosvm\\details\\mostrarpedidocreadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\pedidosvm\\details\\mostrarpedidocreadoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\pedidosvm\\getpedidobyfecha\\fechaemisionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\pedidosvm\\getpedidobyfecha\\fechaemisionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\pedidosvm\\getpedidobyfecha\\mostrarpedidosbyfechaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\pedidosvm\\getpedidobyfecha\\mostrarpedidosbyfechaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\pedidos\\itemarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\pedidos\\itemarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\pedidos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\pedidos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\repositoriosef\\repositorioivaef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\repositoriosef\\repositorioivaef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\excepciones\\articuloexception\\articuloexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\excepciones\\articuloexception\\articuloexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\migrations\\20240524201749_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\migrations\\20240524201749_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\movimientostock\\itemarticulomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\movimientostock\\itemarticulomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\definirtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\definirtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\reduccionstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\reduccionstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\traslado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\traslado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\movimientostock\\movimientosstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\movimientostock\\movimientosstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\aumentostock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\movimientostock\\clasesportipomovimiento\\aumentostock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\pedidos\\tipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\pedidos\\tipopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\interfacesrepositorios\\irepositoriomovimientosstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\interfacesrepositorios\\irepositoriomovimientosstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\pedidos\\pedidocomun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\pedidos\\pedidocomun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\pedidos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\pedidos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\wwwroot\\js\\iniciosesion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\wwwroot\\js\\iniciosesion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\usuarios\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\usuarios\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\clientesvm\\buscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\clientesvm\\buscarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\articuloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\articuloviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\clientesvm\\mostrarclientesbyrazonsocialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\clientesvm\\mostrarclientesbyrazonsocialviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\usuarios\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\usuarios\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\usuarios\\encargadodeposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\usuarios\\encargadodeposito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\valueobjects\\vo\\valuearticulo\\codigobarras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\valueobjects\\vo\\valuearticulo\\codigobarras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Articulos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240424221554_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\valueobjects\\vo\\valuearticulo\\nombrearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\valueobjects\\vo\\valuearticulo\\nombrearticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\interfacesentidades\\iarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\interfacesentidades\\iarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\valueobjects\\vo\\vousuario\\nombreapellidovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\valueobjects\\vo\\vousuario\\nombreapellidovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\valueobjects\\vo\\vousuario\\passwordusuariovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\valueobjects\\vo\\vousuario\\passwordusuariovo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\valueobjects\\vo\\vousuario\\correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\valueobjects\\vo\\vousuario\\correo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\valueobjects\\vo\\vocliente\\direccionrecordvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\valueobjects\\vo\\vocliente\\direccionrecordvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\interfacesentidades\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\interfacesentidades\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\interfacesentidades\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\interfacesentidades\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\excepciones\\articuloexception\\codigoarticuloexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\excepciones\\articuloexception\\codigoarticuloexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\excepciones\\articuloexception\\nombrearticuloexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\excepciones\\articuloexception\\nombrearticuloexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\usuario\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\usuariosvm\\mostrarlistadousuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\usuariosvm\\mostrarlistadousuariosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\usuarios\\cualtausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\usuarios\\cualtausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\interfacesrepositorios\\irepositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\interfacesrepositorios\\irepositoriousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\usuariosvm\\editarusuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\usuariosvm\\editarusuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\usuarios\\cuactualizarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\usuarios\\cuactualizarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\repositoriosef\\repositorioarticulosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\repositoriosef\\repositorioarticulosef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icuactualizarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icuactualizarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icuobtenerusuariobyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icuobtenerusuariobyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\usuarios\\cuobtenerusuariobyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\usuarios\\cuobtenerusuariobyemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\rols\\cuobtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\rols\\cuobtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\usuariosvm\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\usuariosvm\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icualtausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icualtausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\usuarios\\cuobtenerusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\usuarios\\cuobtenerusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icuobtenerusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icuobtenerusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\usuariosvm\\rolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\usuariosvm\\rolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\entidades\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\entidades\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Usuarios.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\interfacesrepositorios\\irepositorioarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\interfacesrepositorios\\irepositorioarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\excepciones\\usuarioexception\\emailinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\excepciones\\usuarioexception\\emailinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\rols\\cuobtenerrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\rols\\cuobtenerrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\irol\\icuobtenerrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\irol\\icuobtenerrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\repositoriosef\\repositoriorolesef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\repositoriosef\\repositoriorolesef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\irol\\icuobtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\irol\\icuobtenerroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\articulos\\cuagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\articulos\\cuagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\articulos\\icuagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\articulos\\icuagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\articulos\\icuobtenerarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\articulos\\icuobtenerarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.rols.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419183727_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419182426_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419181235_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\AppData\\Local\\Temp\\t0b1myu2..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Administrador.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\excepciones\\usuarioexception\\nombreapellidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\excepciones\\usuarioexception\\nombreapellidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\excepciones\\usuarioexception\\passwordinvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\excepciones\\usuarioexception\\passwordinvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\articulos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\articulos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\articulos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\excepciones\\usuarioexception\\usuarioinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\excepciones\\usuarioexception\\usuarioinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.accesodatos\\interfacesrepositorios\\irepositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BE797D-2F56-4AEE-9CE6-E6F69A1D9A93}|Papeleria.AccesoDatos\\Papeleria.AccesoDatos.csproj|solutionrelative:papeleria.accesodatos\\interfacesrepositorios\\irepositorioclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicanegocio\\interfacesentidades\\ipedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FFED8F-3283-4664-8113-0B8BF061257B}|Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj|solutionrelative:papeleria.logicanegocio\\interfacesentidades\\ipedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\articulos\\cuobtenerarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\articulos\\cuobtenerarticulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.MVC\\Models\\VOModels\\DescripcionCodigoViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Recargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoExpress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoComun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\IVA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemCompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\views\\usuario\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.mvc\\models\\usuariosvm\\eliminarusuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C4C3C2-BA63-42AC-89A0-FB17C3F2AB55}|Papeleria.MVC\\Papeleria.MVC.csproj|solutionrelative:papeleria.mvc\\models\\usuariosvm\\eliminarusuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\casosuso\\usuarios\\cueliminarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\casosuso\\usuarios\\cueliminarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|c:\\users\\rafael\\desktop\\rafa\\ort\\clases\\3er semestre\\p3\\primer obligatorio\\segundohito\\pre entrega\\papeleria.mvc\\papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icueliminarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285CC223-ABD6-4EA6-BE11-39156CA95AFA}|Papeleria.LogicaAplicacion\\Papeleria.LogicaAplicacion.csproj|solutionrelative:papeleria.logicaaplicacion\\icasosuso\\iusuarios\\icueliminarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\INombreApellidoVO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IItemArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\ICliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\IPasswordUsuarioVO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ClienteException\\ClienteDuplicadoException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\LibreriaContextx\\LibreriaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\DescripcionArticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 117,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rut.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\Rut.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\Rut.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\Rut.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\Rut.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:23:15.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Papeleria.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.WebAPI\\Program.cs",
+              "RelativeToolTip": "Papeleria.WebAPI\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:15:27.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.WebAPI\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Papeleria.WebAPI\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.WebAPI\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "Papeleria.WebAPI\\Controllers\\ArticuloController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:50:49.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Pedidos\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T20:59:41.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MostrarPedidosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\Index\\MostrarPedidosViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\PedidosVM\\Index\\MostrarPedidosViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\Index\\MostrarPedidosViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\PedidosVM\\Index\\MostrarPedidosViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:54:00.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MostrarPedidosByFechaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\MostrarPedidosByFechaViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\MostrarPedidosByFechaViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\MostrarPedidosByFechaViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\MostrarPedidosByFechaViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:53:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FechaEmisionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\FechaEmisionViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\FechaEmisionViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\FechaEmisionViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\PedidosVM\\GetPedidoByFecha\\FechaEmisionViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:53:41.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\ItemArticulo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\ItemArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\ItemArticulo.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\ItemArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:48:20.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MostrarPedidoCreadoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\Details\\MostrarPedidoCreadoViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\PedidosVM\\Details\\MostrarPedidoCreadoViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\PedidosVM\\Details\\MostrarPedidoCreadoViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\PedidosVM\\Details\\MostrarPedidoCreadoViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T21:34:34.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Pedidos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Pedidos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Pedidos\\Details.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Pedidos\\Details.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:31:44.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Pedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Pedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Pedidos\\Create.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Pedidos\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T21:31:39.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositorioIvaEF.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioIvaEF.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioIvaEF.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioIvaEF.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioIvaEF.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:38:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240524201749_init.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240524201749_init.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\Migrations\\20240524201749_init.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240524201749_init.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\Migrations\\20240524201749_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:17:50.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IRepositorioMovimientosStock.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioMovimientosStock.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioMovimientosStock.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioMovimientosStock.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioMovimientosStock.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:45:24.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\Pedido.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\Pedido.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\Pedido.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:37:44.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PedidoComun.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\PedidoComun.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\PedidoComun.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\PedidoComun.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\PedidoComun.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:37:38.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "inicioSesion.js",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\wwwroot\\js\\inicioSesion.js",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\wwwroot\\js\\inicioSesion.js",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\wwwroot\\js\\inicioSesion.js",
+              "RelativeToolTip": "Papeleria.MVC\\wwwroot\\js\\inicioSesion.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-23T23:19:33.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TipoPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\TipoPedido.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\TipoPedido.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedidos\\TipoPedido.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Pedidos\\TipoPedido.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:44:51.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DefinirTipo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\DefinirTipo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\DefinirTipo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\DefinirTipo.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\DefinirTipo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:43:25.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReduccionStock.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\ReduccionStock.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\ReduccionStock.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\ReduccionStock.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\ReduccionStock.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:19:50.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Traslado.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\Traslado.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\Traslado.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\Traslado.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\Traslado.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:19:34.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AumentoStock.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\AumentoStock.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\AumentoStock.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\AumentoStock.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\AumentoStock.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:19:22.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BuscarCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\ClientesVM\\BuscarCliente.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\ClientesVM\\BuscarCliente.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\ClientesVM\\BuscarCliente.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\ClientesVM\\BuscarCliente.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:02:46.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MostrarClientesByRazonSocialViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\ClientesVM\\MostrarClientesByRazonSocialViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\ClientesVM\\MostrarClientesByRazonSocialViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\ClientesVM\\MostrarClientesByRazonSocialViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\ClientesVM\\MostrarClientesByRazonSocialViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:02:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Controllers\\ClienteController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:03:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Controllers\\PedidosController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:03:01.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\TipoMovimiento.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\TipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\TipoMovimiento.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ClasesPorTipoMovimiento\\TipoMovimiento.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:50:14.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PapeleriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\PapeleriaCT\\PapeleriaContext.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\PapeleriaCT\\PapeleriaContext.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\PapeleriaCT\\PapeleriaContext.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\PapeleriaCT\\PapeleriaContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:39:01.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemArticuloMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ItemArticuloMovimiento.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ItemArticuloMovimiento.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ItemArticuloMovimiento.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\ItemArticuloMovimiento.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:06:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MovimientosStock.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\MovimientosStock.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\MovimientosStock.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\MovimientosStock.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\MovimientoStock\\MovimientosStock.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:04:35.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EncargadoDeposito.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\EncargadoDeposito.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\EncargadoDeposito.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\EncargadoDeposito.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\EncargadoDeposito.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:58:55.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240424221554_init.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240424221554_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240424221554_init.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240424221554_init.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240424221554_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:15:55.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArticuloException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\ArticuloException.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\ArticuloException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\ArticuloException.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\ArticuloException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:49:20.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DireccionRecordVO.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\DireccionRecordVO.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\DireccionRecordVO.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\DireccionRecordVO.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOCliente\\DireccionRecordVO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:36:10.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IArticulo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IArticulo.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:27:00.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "Recargo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Recargo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Recargo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Recargo.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Recargo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "PedidoExpress.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoExpress.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoExpress.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoExpress.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoExpress.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:58.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "PedidoComun.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoComun.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoComun.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoComun.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\PedidoComun.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedido.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedido.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Pedido.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:52.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "IVA.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\IVA.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\IVA.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\IVA.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\IVA.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:51.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "ItemCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemCompra.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemCompra.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemCompra.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemCompra.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:49.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ItemArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemArticulo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemArticulo.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\ItemArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:42.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "Fecha.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Fecha.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Fecha.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Fecha.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Fecha.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:33:37.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CodigoArticuloException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\CodigoArticuloException.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\CodigoArticuloException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\CodigoArticuloException.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\CodigoArticuloException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:41:45.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CodigoBarras.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\CodigoBarras.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\CodigoBarras.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\CodigoBarras.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\CodigoBarras.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:13:52.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "NombreArticuloException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\NombreArticuloException.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\NombreArticuloException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\NombreArticuloException.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Excepciones\\ArticuloException\\NombreArticuloException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:06:45.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Usuario\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Delete.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Usuario\\Delete.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T16:47:10.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "ELiminarUsuarioVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\ELiminarUsuarioVM.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\UsuariosVM\\ELiminarUsuarioVM.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\ELiminarUsuarioVM.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\UsuariosVM\\ELiminarUsuarioVM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:33:06.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "CUEliminarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUEliminarUsuario.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUEliminarUsuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUEliminarUsuario.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUEliminarUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:24:49.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ICUEliminarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUEliminarUsuario.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUEliminarUsuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUEliminarUsuario.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUEliminarUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:24:09.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Papeleria.MVC\\wwwroot\\js\\site.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-23T20:39:12.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Usuario\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Edit.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Usuario\\Edit.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T19:17:25.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CUActualizarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUActualizarUsuario.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUActualizarUsuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUActualizarUsuario.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUActualizarUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:23:07.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ICUActualizarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUActualizarUsuario.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUActualizarUsuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUActualizarUsuario.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUActualizarUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:22:26.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EditarUsuarioVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\EditarUsuarioVM.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\UsuariosVM\\EditarUsuarioVM.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\EditarUsuarioVM.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\UsuariosVM\\EditarUsuarioVM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:19:02.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CUObtenerUsuarioByEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarioByEmail.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarioByEmail.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarioByEmail.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarioByEmail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:35:10.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ICUObtenerUsuarioByEmail.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarioByEmail.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarioByEmail.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarioByEmail.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarioByEmail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:33:59.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CUObtenerUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarios.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarios.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarios.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUObtenerUsuarios.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:25:02.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ICUObtenerUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarios.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarios.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarios.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUObtenerUsuarios.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T18:24:21.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Usuario\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T01:45:08.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MostrarListadoUsuariosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\MostrarListadoUsuariosViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\UsuariosVM\\MostrarListadoUsuariosViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\MostrarListadoUsuariosViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\UsuariosVM\\MostrarListadoUsuariosViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:30:23.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CUObtenerRol.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRol.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRol.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRol.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRol.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:16:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ICUObtenerRol.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRol.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRol.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRol.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRol.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T22:15:36.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Usuario\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T21:23:54.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ICUObtenerRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRoles.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRoles.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRoles.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\IRol\\ICUObtenerRoles.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:39:57.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CUObtenerRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRoles.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRoles.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRoles.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Rols\\CUObtenerRoles.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:39:26.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RepositorioRolesEF.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioRolesEF.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioRolesEF.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioRolesEF.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioRolesEF.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:10:18.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RolViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\RolViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\UsuariosVM\\RolViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\RolViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\UsuariosVM\\RolViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:03:39.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20240419183727_init.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419183727_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419183727_init.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419183727_init.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419183727_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:37:27.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240419182426_init.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419182426_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419182426_init.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419182426_init.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419182426_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:24:27.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "dbo.rols.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.rols.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.rols.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-19T18:16:40.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20240419181235_init.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419181235_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419181235_init.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419181235_init.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\Migrations\\20240419181235_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:12:35.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "t0b1myu2..sql",
+              "DocumentMoniker": "C:\\Users\\Rafael\\AppData\\Local\\Temp\\t0b1myu2..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\t0b1myu2..sql",
+              "ToolTip": "C:\\Users\\Rafael\\AppData\\Local\\Temp\\t0b1myu2..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\t0b1myu2..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-19T17:24:36.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositorioClientesEF.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioClientesEF.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioClientesEF.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioClientesEF.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioClientesEF.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:22:33.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositorioPedidosEF.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioPedidosEF.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioPedidosEF.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioPedidosEF.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioPedidosEF.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:22:25.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\appsettings.json",
+              "RelativeToolTip": "Papeleria.MVC\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T17:18:03.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "dbo.Administrador.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Administrador.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Administrador.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-19T13:39:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Rol.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Rol.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Rol.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Rol.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:47:05.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "INombreApellidoVO.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\INombreApellidoVO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\INombreApellidoVO.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\INombreApellidoVO.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\INombreApellidoVO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:16:46.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NombreApellidoVO.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\NombreApellidoVO.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\NombreApellidoVO.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\NombreApellidoVO.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\NombreApellidoVO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:52:24.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "NombreApellidoException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\NombreApellidoException.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\NombreApellidoException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\NombreApellidoException.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\NombreApellidoException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:34:48.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "dbo.Usuarios.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Usuarios.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Usuarios.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-18T20:30:45.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.Articulos.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Articulos.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Papeleria/True/SqlTable/dbo.Articulos.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-18T20:30:04.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "UsuarioInvalidoException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\UsuarioInvalidoException.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\UsuarioInvalidoException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\UsuarioInvalidoException.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\UsuarioInvalidoException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:23:03.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CUAltaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUAltaUsuario.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUAltaUsuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUAltaUsuario.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Usuarios\\CUAltaUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:56:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ICUAgregarArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUAgregarArticulo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUAgregarArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUAgregarArticulo.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUAgregarArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:55:21.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ICUAltaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUAltaUsuario.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUAltaUsuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUAltaUsuario.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\IUsuarios\\ICUAltaUsuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:53:42.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\UsuariosVM\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\UsuariosVM\\UsuarioViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\UsuariosVM\\UsuarioViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:04:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Controllers\\UsuarioController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:00:07.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositorioUsuariosEF.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioUsuariosEF.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioUsuariosEF.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioUsuariosEF.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioUsuariosEF.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:24:22.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IRepositorioUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioUsuarios.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioUsuarios.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioUsuarios.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioUsuarios.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:09:35.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "PasswordInvalidaException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\PasswordInvalidaException.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\PasswordInvalidaException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\PasswordInvalidaException.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\PasswordInvalidaException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:41:40.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "IRepositorioClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioClientes.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:22:42.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorio.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:22:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Cliente.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:20:39.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IEntity.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IEntity.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:20:33.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "IItemArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IItemArticulo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IItemArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IItemArticulo.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IItemArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:20:32.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "IPedido.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IPedido.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IPedido.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IPedido.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IPedido.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:20:31.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ICliente.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\ICliente.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\ICliente.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\ICliente.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\ICliente.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:19:36.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "IPasswordUsuarioVO.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\IPasswordUsuarioVO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\IPasswordUsuarioVO.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\IPasswordUsuarioVO.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\IVO\\IVOUsuario\\IPasswordUsuarioVO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:12:18.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IValidable.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IValidable.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IValidable.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\InterfacesEntidades\\IValidable.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\InterfacesEntidades\\IValidable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:11:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PasswordUsuarioVO.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\PasswordUsuarioVO.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\PasswordUsuarioVO.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\PasswordUsuarioVO.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\PasswordUsuarioVO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:08:50.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "ClienteDuplicadoException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ClienteException\\ClienteDuplicadoException.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ClienteException\\ClienteDuplicadoException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ClienteException\\ClienteDuplicadoException.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\ClienteException\\ClienteDuplicadoException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:47:42.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "EmailInvalidoException.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\EmailInvalidoException.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\EmailInvalidoException.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\EmailInvalidoException.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Excepciones\\UsuarioException\\EmailInvalidoException.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:47:00.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Correo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\Correo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\Correo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\Correo.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\VOUsuario\\Correo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:20:35.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Compra.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Compra.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Compra.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Compra.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:20:32.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Usuario.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Usuario.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Usuario.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:14:00.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Administrador.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Administrador.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Usuarios\\Administrador.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:13:19.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Shared\\_Layout.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:51:01.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Articulos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Articulos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Articulos\\Index.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Articulos\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:49:03.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Articulos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Views\\Articulos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Views\\Articulos\\Create.cshtml",
+              "RelativeToolTip": "Papeleria.MVC\\Views\\Articulos\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:38:11.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Program.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:25:41.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "CUAgregarArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUAgregarArticulo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUAgregarArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUAgregarArticulo.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUAgregarArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:24:44.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CUObtenerArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUObtenerArticulos.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUObtenerArticulos.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUObtenerArticulos.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\CasosUso\\Articulos\\CUObtenerArticulos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:22:32.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ICUObtenerArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUObtenerArticulos.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUObtenerArticulos.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUObtenerArticulos.cs",
+              "RelativeToolTip": "Papeleria.LogicaAplicacion\\ICasosUso\\Articulos\\ICUObtenerArticulos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:22:16.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Controllers\\ArticulosController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Controllers\\ArticulosController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:21:56.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "LibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\LibreriaContextx\\LibreriaContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\LibreriaContextx\\LibreriaContext.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.AccesoDatos\\LibreriaContextx\\LibreriaContext.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.AccesoDatos\\LibreriaContextx\\LibreriaContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:59:28.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "DescripcionArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\DescripcionArticulo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\DescripcionArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\DescripcionArticulo.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\DescripcionArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:01:27.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "DescripcionCodigoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.MVC\\Models\\VOModels\\DescripcionCodigoViewModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\Papeleria.MVC\\Papeleria.MVC\\Models\\VOModels\\DescripcionCodigoViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Papeleria.MVC\\Papeleria.MVC\\Models\\VOModels\\DescripcionCodigoViewModel.cs",
+              "RelativeToolTip": "..\\..\\Papeleria.MVC\\Papeleria.MVC\\Models\\VOModels\\DescripcionCodigoViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T18:01:05.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "NombreArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\NombreArticulo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\NombreArticulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\NombreArticulo.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\ValueObjects\\VO\\ValueArticulo\\NombreArticulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:59:45.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Articulo.cs",
+              "RelativeDocumentMoniker": "Papeleria.LogicaNegocio\\Entidades\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Entidades\\Articulo.cs",
+              "RelativeToolTip": "Papeleria.LogicaNegocio\\Entidades\\Articulo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:57:59.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ArticuloViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\ArticuloViewModel.cs",
+              "RelativeDocumentMoniker": "Papeleria.MVC\\Models\\ArticuloViewModel.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.MVC\\Models\\ArticuloViewModel.cs",
+              "RelativeToolTip": "Papeleria.MVC\\Models\\ArticuloViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:52:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RepositorioArticulosEF.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioArticulosEF.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioArticulosEF.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioArticulosEF.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\RepositoriosEF\\RepositorioArticulosEF.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:17:32.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IRepositorioArticulos.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "RelativeDocumentMoniker": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "RelativeToolTip": "Papeleria.AccesoDatos\\InterfacesRepositorios\\IRepositorioArticulos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:17:07.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

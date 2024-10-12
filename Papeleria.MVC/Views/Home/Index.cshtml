@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@if (Context.Session.GetString("EmailUsuario")!= null)
+{
+    <div class="text-center">
+        <h1 class="display-4">Bienvenido a Papeleria @ViewBag.Usuario</h1>
+        <h2>En la parte superior se encuentra las opciones disponibles a realizar</h2>
+    </div>
+}
+else
+{
+<div class="text-center">
+    <h1 class="display-4">Bienvenido a Papeleria </h1>
+        <h2>Por favor inicie sesión en la parte superior</h2>
+</div>
+    
+}

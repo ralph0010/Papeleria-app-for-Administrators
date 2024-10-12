@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Papeleria.MVC.Models.PedidosVM.Index.MostrarPedidosViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Pedidos</h1>
+
+<table class="table table-success table-striped table-striped-columns">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoPedido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CantidadArticulos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaPedidoRealizada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaEntrega)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.estaAnulado)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoPedido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CantidadArticulos)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.FechaPedidoRealizada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaEntrega)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.estaAnulado)
+                </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

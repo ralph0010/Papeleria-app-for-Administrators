@@ -1,0 +1,38 @@
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaAplicacion.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaAplicacion.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaAplicacion.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.AccesoDatos.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.AccesoDatos.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\refint\Papeleria.LogicaAplicacion.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\ref\Papeleria.LogicaAplicacion.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleri.24843A5C.Up2Date
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.DTOs.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.DTOs.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaAplicacion.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaAplicacion.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaAplicacion.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.AccesoDatos.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.DTOs.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.AccesoDatos.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.DTOs.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\bin\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleri.24843A5C.Up2Date
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\refint\Papeleria.LogicaAplicacion.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\Papeleria.LogicaAplicacion.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaAplicacion\obj\Debug\net8.0\ref\Papeleria.LogicaAplicacion.dll

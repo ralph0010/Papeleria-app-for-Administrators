@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Papeleria.WebAPI.Controllers.ArticuloController",
+    "Method": "ObtenerArticulosOrdenados",
+    "RelativePath": "api/Articulo/ObtenerArticulosOrdenados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Papeleria.WebAPI.Controllers.PedidoController",
+    "Method": "ObtenerPedidosAnulados",
+    "RelativePath": "api/Pedido/ObtenerPedidosAnulados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

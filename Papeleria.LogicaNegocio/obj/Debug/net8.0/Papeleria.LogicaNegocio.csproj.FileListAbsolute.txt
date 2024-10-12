@@ -1,0 +1,24 @@
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\refint\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\ref\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.deps.json
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\bin\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\refint\Papeleria.LogicaNegocio.dll
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\Papeleria.LogicaNegocio.pdb
+C:\Users\Rafael\Desktop\Rafa\ORT\clases\3er semestre\P3\Primer Obligatorio\SegundoHito\Pre entrega\Papeleria.MVC\Papeleria.LogicaNegocio\obj\Debug\net8.0\ref\Papeleria.LogicaNegocio.dll

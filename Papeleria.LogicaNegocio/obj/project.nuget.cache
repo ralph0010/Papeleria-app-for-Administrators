@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jVzkdLcpHXo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Rafa\\ORT\\clases\\3er semestre\\P3\\Primer Obligatorio\\SegundoHito\\Pre entrega\\Papeleria.MVC\\Papeleria.LogicaNegocio\\Papeleria.LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

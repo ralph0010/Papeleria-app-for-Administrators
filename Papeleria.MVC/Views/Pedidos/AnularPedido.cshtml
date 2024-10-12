@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "AnularPedido";
+}
+
+<h1>Estado de anulación de Pedido</h1>
+@if (!string.IsNullOrEmpty(ViewBag.ErrorAnularPedido))
+{
+    <div class="p-3 mb-2 bg-danger text-white rounded">
+        <p>@ViewBag.ErrorAnularPedido</p>
+    </div>
+}
+else if (!string.IsNullOrEmpty(ViewBag.SuccessAnulacion))
+{
+
+    <div class="p-3 mb-2 bg-success text-white rounded">
+        <p>@ViewBag.SuccessAnulacion</p>
+    </div>
+
+}
+
